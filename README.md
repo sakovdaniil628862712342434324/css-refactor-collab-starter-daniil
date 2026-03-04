@@ -8,6 +8,8 @@
 - [Brennan Carrier](https://github.com/brennancarrier)
 ---
 
+> Git commands documentation is avaliable here: [link](https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ)
+
 ## Lab Instructions
 
 ### Learning Objectives

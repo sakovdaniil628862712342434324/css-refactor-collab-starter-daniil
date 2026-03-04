@@ -6,6 +6,8 @@
 - [Autum Darrell](https://github.com/BreezyAutum)
 - [Ashlyn Knox](https://github.com/ashx3s/)
 - [Brennan Carrier](https://github.com/brennancarrier)
+- [Daniel Manzano](https://github.com/DanielEMM01/)
+
 ---
 
 > Git commands documentation is avaliable here: [link](https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ)
